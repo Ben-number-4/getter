@@ -20,4 +20,4 @@ function getScripts() {
   }
 }
 
-getScripts("get text.js")
+getScripts("get text.js", "get images.js", "download.js");
