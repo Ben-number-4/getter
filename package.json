@@ -1,0 +1,19 @@
+{
+  "name": "getter",
+  "version": "1.0.0",
+  "description": "A cool piece of code that helps with importing stylesheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben-number-4/getter.git"
+  },
+  "author": "Ben M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ben-number-4/getter/issues"
+  },
+  "homepage": "https://github.com/Ben-number-4/getter#readme"
+}
