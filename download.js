@@ -7,3 +7,7 @@ function download(url, name) {
     document.body.removeChild(link);
     delete link;
 }
+
+function redirect(to) {
+    window.location.replace(to);
+}
