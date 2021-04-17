@@ -19,5 +19,5 @@ function getScripts() {
         document.body.appendChild(scription);
   }
 }
-
+// Example usage
 getScripts("get text.js", "get images.js", "download.js");
