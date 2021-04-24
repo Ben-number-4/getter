@@ -1,7 +1,7 @@
 {
-  "name": "getter",
+  "name": "gettering",
   "version": "1.0.0",
-  "description": "A cool piece of code that helps with importing stylesheets",
+  "description": "A cool piece of code that helps with importing stylesheets, scripts, and images",
   "main": "index.js",
   "scripts": {
     "test": "node ."
