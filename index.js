@@ -9,7 +9,7 @@ function getStylesheets() {
   }
 }
 
-// Make shure all the arguments are script urls
+// Make sure all the arguments are script urls
 function getScripts() {
     var dish;
     for(var i in arguments) {
