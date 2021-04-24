@@ -1,6 +1,6 @@
 {
   "name": "gettering",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cool piece of code that helps with importing stylesheets, scripts, and images",
   "main": "index.js",
   "scripts": {
