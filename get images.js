@@ -1,10 +1,8 @@
-const fs = require('fs');
-
 function getImages() {
     var ims = new Array();
     for(var i in arguments) {
-        var read = fs.readFile(arguments[i-1]);
+        var read = new Image(arguments(i));
         ims.push(read);
     }
-    return texts;
+    return ims;
 }
